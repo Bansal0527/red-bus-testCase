@@ -20,14 +20,22 @@ You may also see any lint errors in the console.
 
 
 
-### `npm run build`
+### Server
+Setup Virtual Environment
+```
+python -m venv venv
+source venv/bin/activate
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install packages
+```
+pip install -r requirement.txt
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+Run Script in server directory
+```
+python app.py
+```
+Runs the server in the development mode.\
+Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 
