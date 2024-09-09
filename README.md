@@ -7,6 +7,10 @@ https://github.com/Bansal0527/red-bus-testCase
 ```
 
 ## Available Scripts
+Install packages
+```
+npm i
+```
 
 In the project directory, you can run:
 
