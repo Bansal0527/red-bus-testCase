@@ -1,9 +1,9 @@
 # Red Bus Test Case Generation
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-git clone
+
 ```
-https://github.com/Bansal0527/red-bus-testCase
+git clone https://github.com/Bansal0527/red-bus-testCase
 ```
 
 ## Available Scripts
